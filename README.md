@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheikhazeem786
+- 👋 Hi, I’m Sheikh Mohd Azeemuddin
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Redux, Express
 - 💞️ I’m looking to collaborate on Web Developement
